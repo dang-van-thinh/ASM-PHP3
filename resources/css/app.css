@@ -1,0 +1,7 @@
+/* Import Bootstrap styles */
+.container{
+    margin: 0 auto;
+    height: 100vh;
+    text-align: center;
+    font-size: 29px;
+}
